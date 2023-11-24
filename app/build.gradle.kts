@@ -64,7 +64,7 @@ dependencies {
     implementation(libs.bundles.navigation)
 
     implementation(platform(libs.koin.bom))
-    implementation(libs.koin.core)
+//    implementation(libs.koin.core)
     implementation(libs.bundles.koin.android)
 
     implementation(platform(libs.compose.bom))
