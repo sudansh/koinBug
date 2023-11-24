@@ -3,7 +3,7 @@ package app.sudansh.koinbug
 import android.app.Application
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
-import org.koin.ksp.generated.app_sudansh_domain_MyModule
+import org.koin.ksp.generated.*
 import org.koin.ksp.generated.defaultModule as app
 
 class SampleApplication : Application() {
